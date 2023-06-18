@@ -18,3 +18,5 @@
 📚What am I Learning📚
 
 <img src="https://img.shields.io/badge/C-00BCCE?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-0000EE?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeromin41&show_icons=true&theme=radical)
