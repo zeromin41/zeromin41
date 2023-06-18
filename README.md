@@ -17,7 +17,7 @@
 
 📚What am I Learning📚
 
-<img src="https://img.shields.io/badge/C-00BCCE?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-0000EE?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00BCCE?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-0000EE?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-9FD400?style=flat-square&logo=Linux&logoColor=white"/>
 
 <br>
 
