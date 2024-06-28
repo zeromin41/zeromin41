@@ -29,7 +29,7 @@
 
 📝What experience do I have📝
 
-* IOT 프로젝트
+* IOT 프로젝트 (2024.05.01 ~ 2024.06.18)
 * (주) 에스테이트 미래내일일경험 인턴 프론트엔드 부문
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tladudals224)](https://solved.ac/tladudals224/)
