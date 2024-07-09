@@ -18,11 +18,12 @@
 
 📚What am I Learning📚
 
-<img src="https://img.shields.io/badge/Java-0000EE?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Java-0000EE?style=flat-square&logo=Java&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> </a>&nbsp;
+<img src="https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=Python&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> </a>&nbsp;
 
 <br>
 
@@ -32,4 +33,4 @@
 * (주) 에스테이트 미래내일일경험 인턴 프론트엔드 부문 (2024.06.24 ~ )
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tladudals224)](https://solved.ac/tladudals224/)
-![zeromin's github stats](https://github-readme-stats.vercel.app/api?username=zeromin41&show_icons=true&theme=graywhite)
+
