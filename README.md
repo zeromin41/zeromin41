@@ -32,3 +32,4 @@
 * (주) 에스테이트 미래내일일경험 인턴 프론트엔드 부문 (2024.06.24 ~ )
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tladudals224)](https://solved.ac/tladudals224/)
+![zeromin's github stats](https://github-readme-stats.vercel.app/api?username=zeromin41&show_icons=true&theme=graywhite)
