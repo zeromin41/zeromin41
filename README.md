@@ -1,11 +1,11 @@
-### Hello World!
-
-<BR>
-
-#### Hi there 👋 This is Novice Developer Git!
-
-#### 반갑습니다👋 프론트엔드를 꿈꾸는 초보 개발자의 프로필입니다!
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff942,100:e0b310&height=240&text=안녕하세요?&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 반갑습니다👋 프론트엔드를 꿈꾸는 초보 개발자의 프로필입니다! </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
+    </div>
+    
 <br><br>
 
 🚀Link To Me🚀
