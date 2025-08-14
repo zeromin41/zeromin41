@@ -34,10 +34,8 @@
 
 📝What experience do I have📝
 * 정보처리기사
-* MBTI별 여행지 추천 구현 프로젝트
-* 사물인터넷 (IOT) 프로젝트 
 * (주) 에스테이트 미래내일일경험 인턴 프론트엔드 부문 (2024.06.24 ~ 2024.08.20)
-* LG U+ 유레카 부트캠프 프론트엔드 부문 (2025.01.20 ~ )
+* LG U+ 유레카 부트캠프 프론트엔드 부문 (2025.01.20 ~ 2025.08.12)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tladudals224)](https://solved.ac/tladudals224/)
 
